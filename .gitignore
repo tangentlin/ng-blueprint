@@ -1,0 +1,6 @@
+*.iml
+*.pyc
+.idea/
+*.DotSettings.user
+
+.cache/
